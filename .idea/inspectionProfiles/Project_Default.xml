@@ -1,0 +1,23 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="app1.admin.Comment" />
+          <option value="blogproject.urls.index" />
+          <option value="app1.views.args" />
+          <option value="project1.urls.profile" />
+          <option value="app1.forms.user_who_block" />
+          <option value="app1.forms.blocked_user" />
+          <option value="app1.urls.path" />
+          <option value="app1.views.datetime" />
+          <option value="project1.app1.models.self" />
+          <option value="project1.app1.admin.app1" />
+          <option value="project1.app1.views.app1" />
+          <option value="courses.coursesapp.admin.Course" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
